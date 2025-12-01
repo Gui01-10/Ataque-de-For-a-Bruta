@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-Pentest-blue?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medusa-Brute%20Force-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploitable-Vulnerable-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DVWA-Web%20Security-green?style=for-the-badge" />
-</p>
-
 🔐 Ataques de Força Bruta com Medusa – Kali Linux, Metasploitable 2 e DVWA
 <p align="center"> <img src="https://img.shields.io/badge/Kali%20Linux-Pentest-blue?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Medusa-Brute%20Force-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Metasploitable-Vulnerable-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/DVWA-Web%20Security-green?style=for-the-badge" /> </p>
 
